@@ -1,4 +1,5 @@
-Olá! Prazer, eu sou a Jessica Picarelli 🙂
+Olá! Prazer, eu sou a Jessica Picarelli 🙂🌺🤍
+##
 
 <div align="center">
   <a href="https://github.com/jessicapicarelli">
