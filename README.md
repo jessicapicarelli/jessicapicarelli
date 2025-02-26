@@ -1,6 +1,6 @@
 <div align="center">
  Olá! Prazer, eu sou a Jessica Picarelli 
-              <br>☁☁️🌺💻
+              <br>☁️🌺💻
 </div>
 
 ##
